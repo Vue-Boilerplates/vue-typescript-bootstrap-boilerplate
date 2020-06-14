@@ -1,8 +1,7 @@
 <template>
   <nav class="navbar navbar-light bg-default navbar-expand-lg">
-    <a
-      href="/"
-      aria-current="page"
+    <router-link
+      to="/"
       class="navbar-brand router-link-exact-active router-link-active"
     >
       <img
@@ -13,7 +12,7 @@
         class="d-inline-block align-top"
       />
       Vue Boilerplates
-    </a>
+    </router-link>
     <button
       type="button"
       aria-label="Toggle navigation"
