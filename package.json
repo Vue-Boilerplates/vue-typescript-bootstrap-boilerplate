@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "core-js": "3.6.5",
-    "moment": "2.29.1",
+    "moment": "2.29.2",
     "register-service-worker": "1.7.1",
     "vue": "2.6.12",
     "vue-router": "3.4.9",
